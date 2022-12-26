@@ -1,7 +1,5 @@
 # Downloads Folder Organizer
 
-![Organise downloads folder python](https://i.imgur.com/H2kKuuo.png)
-
 Hi! This repo is for python script to declutter Downloads folder into appropriate category every Weekend. Basic configs are explained below.
 
 # Detailed Explanation 🔎
